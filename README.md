@@ -5,4 +5,4 @@ division so that it can be more functional to use in everyday tasks.
 
 <img alt="A calculator" src="calculator.PNG" style="height: 50vh; display: block; margin: 1em auto;">
 
-If you are curious, you can try it out [here](https://calculator.mytran2111.repl.co/)
+If you are curious, you can try it out [here](https://mytran2111.github.io/calculator_app/)
